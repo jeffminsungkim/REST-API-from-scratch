@@ -19,3 +19,4 @@ Build a REST API from scratch, using Django and Django REST Framework.
 + Django Framework 1.11
 + Django REST framework 3.6.2
 + ModHeader Chrome Extension (Easily Modify HTTP Headers)
++ AWS
